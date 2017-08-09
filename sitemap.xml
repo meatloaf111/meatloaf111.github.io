@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://meatloaf111.github.io/categories/</loc>
+    <loc>http://meatloaf111.github.io/hugotest/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://meatloaf111.github.io/</loc>
+    <loc>http://meatloaf111.github.io/hugotest/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://meatloaf111.github.io/tags/</loc>
+    <loc>http://meatloaf111.github.io/hugotest/tags/</loc>
     <priority>0</priority>
   </url>
   
